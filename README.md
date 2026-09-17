@@ -1,2 +1,20 @@
-# Activity-3-Mini-Web-Application-CRUD-Based-Web-Application
-The College Event Registration Portal is a smart web application for V.S.B. Engineering College, Karur. It helps students explore events, register online, view event details, and get digital event passes. Admins can manage events, students, registrations, and notifications easily through a centralized dashboard.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/7959d530-b952-4589-a4c3-538855c718c6
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

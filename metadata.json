@@ -1,0 +1,6 @@
+{
+  "name": "VSBEC EVENTVERSE - College Event Registration Portal",
+  "description": "VSBEC EVENTVERSE: Premium College Event Registration Portal for V.S.B. Engineering College, Karur developed by ELAVARASAN R (2nd Year ECE | Reg No: 922525106091). Connect • Create • Participate • Celebrate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
